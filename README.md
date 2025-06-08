@@ -114,7 +114,6 @@ lib/
 
 ### 3. Contrôles Parentaux & Tableau de Bord
 
-![alt text](<Capture d’écran du 2025-05-11 23-28-38.png>)
 
 - Tableau de bord analytique avec préférences d'alerte personnalisables.
 
